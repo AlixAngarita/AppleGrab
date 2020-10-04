@@ -10,5 +10,4 @@ Desarrollado en Unity 2020.1.0f1.
 
 Crédito a quien corresponda por las imágenes utilizadas.<br/>
 Fuente publicada por Jakob Fischer.<br/>
-Audios disponibles para uso libre.<br/>
-
+Se utilizaron audios disponibles de forma gratuita para uso no comercial.<br/>
